@@ -20,4 +20,5 @@ NRF24L01 подключается стандартным способом чер
 # Необходимые библиотеки
 Скачать и установить библиотеки для NRF24L01 и для PCF8574
 http://www.airspayce.com/mikem/arduino/RadioHead/RadioHead-1.46.zip
+
 https://github.com/xreef/PCF8574_library
